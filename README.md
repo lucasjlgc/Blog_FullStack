@@ -12,21 +12,24 @@
   
 <hr>
 
-## This is the home page bellow: 
+## This is the home page bellow 
 ### Before
-![interface](https://github.com/lucasjlgc/Blog_FullStack/blob/master/images/home_page_before.png)
+<img src="https://github.com/lucasjlgc/Blog_FullStack/blob/master/images/home_page_before.png" alt="interface" width="60%">
 ### After
-![interface](https://github.com/lucasjlgc/Blog_FullStack/blob/master/images/home_page_after.png)
+<img src="https://github.com/lucasjlgc/Blog_FullStack/blob/master/images/home_page_after.png" alt="interface" width="60%">
 <hr>
-## This is the about page bellow: 
-![interface](https://github.com/lucasjlgc/Blog_FullStack/blob/master/images/about_page.png)
+
+## This is the post page bellow 
+<img src="https://github.com/lucasjlgc/Blog_FullStack/blob/master/images/post_page.png" alt="interface" width="60%">
 <hr>
-## This is the post page bellow: 
-![interface](https://github.com/lucasjlgc/Blog_FullStack/blob/master/images/post_page.png)
+
+## This is the about page bellow 
+<img src="https://github.com/lucasjlgc/Blog_FullStack/blob/master/images/about_page.png" alt="interface" width="60%">
 <hr>
-## This is the mysql database, before and after post, bellow: 
+
+## This is the mysql database, before and after post, bellow 
 ### Before
-![interface](https://github.com/lucasjlgc/Blog_FullStack/blob/master/images/mysql_before.png)
+<img src="https://github.com/lucasjlgc/Blog_FullStack/blob/master/images/mysql_before.png" alt="interface" width="60%">
 ### After
-![interface](https://github.com/lucasjlgc/Blog_FullStack/blob/master/images/mysql_after.png)
+<img src="https://github.com/lucasjlgc/Blog_FullStack/blob/master/images/mysql_after.png" alt="interface" width="60%">
 <hr>
