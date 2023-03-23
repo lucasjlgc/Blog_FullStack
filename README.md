@@ -13,14 +13,20 @@
 <hr>
 
 ## This is the home page bellow: 
-
+### Before
+![interface](https://github.com/lucasjlgc/Blog_FullStack/blob/master/images/home_page_before.png)
+### After
+![interface](https://github.com/lucasjlgc/Blog_FullStack/blob/master/images/home_page_after.png)
 <hr>
 ## This is the about page bellow: 
-
+![interface](https://github.com/lucasjlgc/Blog_FullStack/blob/master/images/about_page.png)
 <hr>
 ## This is the post page bellow: 
-
+![interface](https://github.com/lucasjlgc/Blog_FullStack/blob/master/images/post_page.png)
 <hr>
 ## This is the mysql database, before and after post, bellow: 
-
+### Before
+![interface](https://github.com/lucasjlgc/Blog_FullStack/blob/master/images/mysql_before.png)
+### After
+![interface](https://github.com/lucasjlgc/Blog_FullStack/blob/master/images/mysql_after.png)
 <hr>
