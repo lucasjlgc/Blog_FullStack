@@ -1,6 +1,6 @@
 # Blog_FullStack
 
-## This is a little blog made in half day that includes the following tecnologies: 
+## This is a little blog made in half day that includes the following technologies: 
   
     * "body-parser": "^1.20.2",
     * "bootstrap": "^5.2.3",
