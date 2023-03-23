@@ -15,6 +15,7 @@
 ## This is the home page bellow 
 ### Before
 <img src="https://github.com/lucasjlgc/Blog_FullStack/blob/master/images/home_page_before.png" alt="interface" width="60%">
+
 ### After
 <img src="https://github.com/lucasjlgc/Blog_FullStack/blob/master/images/home_page_after.png" alt="interface" width="60%">
 <hr>
@@ -30,6 +31,7 @@
 ## This is the mysql database, before and after post, bellow 
 ### Before
 <img src="https://github.com/lucasjlgc/Blog_FullStack/blob/master/images/mysql_before.png" alt="interface" width="60%">
+
 ### After
 <img src="https://github.com/lucasjlgc/Blog_FullStack/blob/master/images/mysql_after.png" alt="interface" width="60%">
 <hr>
